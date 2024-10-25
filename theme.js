@@ -20,5 +20,5 @@ t.prefs_.set('color-palette-overrides', [
 
 // Set foreground, background, and cursor colors
 t.prefs_.set('foreground-color', "#deeeed"); // white
-t.prefs_.set('background-color', "#191919"); // black
+t.prefs_.set('background-color', "#101010"); // black
 t.prefs_.set('cursor-color', 'rgba(222, 238, 237, 0.5)'); // semi-transparent white
